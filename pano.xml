@@ -283,25 +283,25 @@
     <hotspots width="180" height="20" wordwrap="0">
       <label background="0" borderradius="0" bordercolor="0x000000" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="0" enabled="0" height="20" textalpha="1" wordwrap="0" borderalpha="1"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
-      <polyhotspot target="" url="{node54}" description="" id="Poly01" title="MCR_MB_CM008">
+      <polyhotspot target="$fwd" url="{node54}" description="" id="Poly01" title="">
         <polystring>-351.31/-29.58|-10.95/-31.51|-14.92/-48.69|-340.98/-44.16|-344.27/-38.81|-347.36/-39.05</polystring>
       </polyhotspot>
-      <polyhotspot target="" url="{node52}" description="" id="Poly02" title="MCR_MB_CM006">
+      <polyhotspot target="$fwd" url="{node52}" description="" id="Poly02" title="">
         <polystring>-11.25/-31.66|-45.33/-23.92|-66.73/-28.73|-15.62/-48.84</polystring>
       </polyhotspot>
-      <polyhotspot target="" url="{node51}" description="" id="Poly03" title="MCR_MB_CM005">
+      <polyhotspot target="$fwd" url="{node51}" description="" id="Poly03" title="">
         <polystring>-45.16/-23.48|-65.02/-14.23|-74.5/-14.88|-60.26/-27.35</polystring>
       </polyhotspot>
-      <polyhotspot target="" url="{node49}" description="" id="Poly04" title="MCR_MB_CM003">
+      <polyhotspot target="$fwd" url="{node49}" description="" id="Poly04" title="">
         <polystring>-73.56/-15.67|-107.89/-15.82|-101.68/-9.61|-78.45/-10.1</polystring>
       </polyhotspot>
-      <polyhotspot target="" url="{node50}" description="" id="Poly05" title="MCR_MB_CM004">
+      <polyhotspot target="$fwd" url="{node50}" description="" id="Poly05" title="">
         <polystring>-73.56/-16.72|-108.58/-16.79|-119.01/-29.67|-60.42/-27.25</polystring>
       </polyhotspot>
-      <polyhotspot target="" url="{node47}" description="" id="Poly06" title="MCR_MB_CM001">
+      <polyhotspot target="$fwd" url="{node47}" description="" id="Poly06" title="">
         <polystring>-108.49/-14.88|-119.39/-13.04|-137.92/-20.68|-119.12/-28.38</polystring>
       </polyhotspot>
-      <polyhotspot target="" url="{node48}" description="" id="Poly07" title="MCR_MB_CM002">
+      <polyhotspot target="$fwd" url="{node48}" description="" id="Poly07" title="">
         <polystring>-138.26/-21.12|-153.24/-24.8|-138.7/-40.36|-119.58/-28.65</polystring>
       </polyhotspot>
       <hotspot tilt="5.57" target="-67.2/-3.8/70.0" skinid="ht_node" url="{node55}" description="" id="Point01" title="" pan="-32.75"/>
@@ -328,7 +328,7 @@
     <hotspots width="180" height="20" wordwrap="0">
       <label background="0" borderradius="0" bordercolor="0x000000" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="0" enabled="0" height="20" textalpha="1" wordwrap="0" borderalpha="1"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
-      <polyhotspot target="" url="{node51}" description="" id="Poly01" title="">
+      <polyhotspot target="$fwd" url="{node51}" description="" id="Poly01" title="">
         <polystring>-87.42/-16.6|-99.13/-16.28|-106.93/-27.36|-84.52/-28.57</polystring>
       </polyhotspot>
       <polyhotspot target="$fwd" url="{node52}" description="" id="Poly02" title="">
@@ -449,7 +449,7 @@
         <polystring>-357.2/-47.13|-45.07/-37.64|-73.7/-47.22|-351.18/-73.87</polystring>
       </polyhotspot>
       <polyhotspot target="$fwd" url="{node58}" description="" id="Poly02" title="">
-        <polystring>-285.62/-47.95|-316.19/-38.12|-354.46/-46.87|-341.67/-72.87</polystring>
+        <polystring>-285.62/-47.95|-316.19/-38.12|-354.46/-46.87|-341.67/-72.87|-297.87/-60.01</polystring>
       </polyhotspot>
       <polyhotspot target="$fwd" url="{node55}" description="" id="Poly03" title="">
         <polystring>-337.36/-73.57|-192.13/-50.12|-224.53/-38.79|-285.09/-47.48</polystring>
